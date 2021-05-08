@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CompanyMeetingScheduler</string>
+    <string name="prev"><![CDATA[<PREV]]></string>
+    <string name="next"><![CDATA[NEXT>]]></string>
+    <string name="schedule_company_meeting">SCHEDULE COMPANY MEETING</string>
+    <string name="submit">SUBMIT</string>
+    <string name="description">Description</string>
+    <string name="end_time">End Time</string>
+    <string name="start_time">Start Time</string>
+</resources>
